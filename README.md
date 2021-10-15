@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skellingbones
+- 👀 I’m interested in languages
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on yo mama
+- 📫 How to reach me skele#7777 on discord

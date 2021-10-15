@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skellingbones
 - 👀 I’m interested in languages, computing, lexicography
 - 🌱 I’m currently learning python and lua
-- 💞️ not looking to collaberate until further notice
+- 💞️ not looking to collaborate until further notice
 - 📫 reach me @skele#7777 on discord
